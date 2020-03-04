@@ -21,6 +21,7 @@
       <button type="submit" name="submit">Calculate</button>
     </form>
     <p>The answer is:</p>
+    <br>
     <?php
       //This is the PHP script that calculates in the background
       //First we check if the button has been clicked
